@@ -3,7 +3,7 @@
 // @namespace    https://www.doubao.com/
 // @version      1.2.0
 // @description  Tasteful dark mode for Doubao — inverts black/white, softens text brightness, keeps images & emoji intact. Toggle: pill button or Alt+D.
-// @author       Claude
+// @author       LoSipon
 // @match        https://www.doubao.com/*
 // @grant        none
 // @run-at       document-start
